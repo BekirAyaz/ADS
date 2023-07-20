@@ -1,5 +1,7 @@
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 adservice.google.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 ads.pinterest.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 notify.bugsnag.com
